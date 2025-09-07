@@ -22,17 +22,17 @@ The main objective is to identify patterns and insights that can help HR teams i
 
 ---
 
-## 📸 Visualizations
+## 📊 Visualizations
 
-[![HR Graph 1](https://github.com/your-username/HR-Employee-Data-Analysis-Visualization-in-Python/blob/main/hr1.png)](https://github.com/your-username/HR-Employee-Data-Analysis-Visualization-in-Python/blob/main/hr1.png)
+[![HR Visualization 1](https://github.com/samiksha29-patil/HR-Employee-Data-Analysis-Visualization-in-Python/blob/main/HR1.png)](https://github.com/samiksha29-patil/HR-Employee-Data-Analysis-Visualization-in-Python/blob/main/HR1.png)
 
-[![HR Graph 2](https://github.com/your-username/HR-Employee-Data-Analysis-Visualization-in-Python/blob/main/hr2.png)](https://github.com/your-username/HR-Employee-Data-Analysis-Visualization-in-Python/blob/main/hr2.png)
+[![HR Visualization 2](https://github.com/samiksha29-patil/HR-Employee-Data-Analysis-Visualization-in-Python/blob/main/HR2.png)](https://github.com/samiksha29-patil/HR-Employee-Data-Analysis-Visualization-in-Python/blob/main/HR2.png)
 
-[![HR Graph 3](https://github.com/your-username/HR-Employee-Data-Analysis-Visualization-in-Python/blob/main/hr3.png)]()
+[![HR Visualization 3](https://github.com/samiksha29-patil/HR-Employee-Data-Analysis-Visualization-in-Python/blob/main/HR3.png)](https://github.com/samiksha29-patil/HR-Employee-Data-Analysis-Visualization-in-Python/blob/main/HR3.png)
 
-[![HR Graph 4](https://github.com/your-username/HR-Employee-Data-Analysis-Visualization-in-Python/blob/main/hr4.png)](https://github.com/your-username/HR-Employee-Data-Analysis-Visualization-in-Python/blob/main/hr4.png)
+[![HR Visualization 4](https://github.com/samiksha29-patil/HR-Employee-Data-Analysis-Visualization-in-Python/blob/main/HR4.png)](https://github.com/samiksha29-patil/HR-Employee-Data-Analysis-Visualization-in-Python/blob/main/HR4.png)
 
-[![HR Graph 5](https://github.com/your-username/HR-Employee-Data-Analysis-Visualization-in-Python/blob/main/hr5.png)](https://github.com/your-username/HR-Employee-Data-Analysis-Visualization-in-Python/blob/main/hr5.png)
+[![HR Visualization 5](https://github.com/samiksha29-patil/HR-Employee-Data-Analysis-Visualization-in-Python/blob/main/HR5.png)](https://github.com/samiksha29-patil/HR-Employee-Data-Analysis-Visualization-in-Python/blob/main/HR5.png)
 
 ---
 
